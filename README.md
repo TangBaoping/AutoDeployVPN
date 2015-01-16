@@ -5,9 +5,9 @@
 # 使用方法
 在 Linux 终端下，依次输入以下命令：
 ```c
- wget https://raw.githubusercontent.com/TangBaoping/AutoDeployVPN/master/AutoDeployVPN.sh --no-check-certificate
- chmod a+x AutoDeployVPN.sh
- bash AutoDeployVPN.sh 
+wget https://raw.githubusercontent.com/TangBaoping/AutoDeployVPN/master/AutoDeployVPN.sh --no-check-certificate
+chmod a+x AutoDeployVPN.sh
+bash AutoDeployVPN.sh 
 ```
 
 
